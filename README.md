@@ -3,8 +3,8 @@
 
 ## Student data
 
-Name: 'YOUR NAME HERE'
-Email: 'YOUR EMAIL HERE'
+Name: 'Daniel DeLong'
+Email: 'daniel.a.delong.th@dartmouth.edu'
 
 Carefully follow the instructions below to setup your assignment repository.
 
